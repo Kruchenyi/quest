@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quest/static/css/main.2c0fd0e1.css",
+    "main.js": "/quest/static/js/main.d0a2dd12.js",
+    "static/media/img1.jpg": "/quest/static/media/img1.427180290cd561b7710e.jpg",
+    "index.html": "/quest/index.html",
+    "main.2c0fd0e1.css.map": "/quest/static/css/main.2c0fd0e1.css.map",
+    "main.d0a2dd12.js.map": "/quest/static/js/main.d0a2dd12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c0fd0e1.css",
+    "static/js/main.d0a2dd12.js"
+  ]
+}
